@@ -1,4 +1,4 @@
-# 👋 Hi!, I'm [YOOSEUNGWOO]!
+# 👋 Hi!
 
 🌱 현재 **[Mechanical Engineering]** 에 대해 배우고 있습니다.  
 💬 질문이나 이야기를 나누고 싶다면 언제든지 DM 주세요!  
