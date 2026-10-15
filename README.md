@@ -1,14 +1,14 @@
 # 👋 Hi!
 
-🌱 현재 **[Mechanical Engineering]** 에 대해 배우고 있습니다.  
+🌱 현재 **[Robotics]** 에 대해 배우고 있습니다.  
 💬 질문이나 이야기를 나누고 싶다면 언제든지 DM 주세요!  
-🔭 저는 현재 **[Rocker Bogie_ZEROV1]** 작업 중입니다.
+🔭 저는 현재 **[Robotics]** 작업 중입니다.
 
 ## 🌍 연결하기
 - [Website](https://www.notion.so/Zenith-Space-HQ-1273ca97403b8045902fe4957cc1d60d?pvs=4)
 
 ## 💡 기술 스택
-- **Languages**: Korean
+- **Languages**: Python
 
 ## 📊 GitHub 상태
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
