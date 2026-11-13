@@ -1,29 +1,46 @@
-# 👋 Hi!
+<div align="center">
 
-🌱 현재 **[Robotics]** 에 대해 배우고 있습니다.  
-💬 질문이나 이야기를 나누고 싶다면 언제든지 DM 주세요!  
-🔭 저는 현재 **[Robotics]** 작업 중입니다.
+# [Yoo Seungwoo]
 
-## 🌍 연결하기
-- [Website](https://www.notion.so/Zenith-Space-HQ-1273ca97403b8045902fe4957cc1d60d?pvs=4)
+**Robotics · Robot Design · Vision**
 
-## 💡 기술 스택
-- **Languages**: Python
+[Robotics Lab/Intern] @ **[SL Corporation]**
 
-## 📊 GitHub 상태
-![Your Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+</div>
 
-<!--
-## 🔧 최근 작업한 프로젝트
-- **[프로젝트 이름](링크)**: 프로젝트에 대한 간략한 설명
-- **[프로젝트 이름](링크)**: 프로젝트에 대한 간략한 설명
--->
+## Education
 
-## 📫 연락 방법
-이메일: cyc06092@seoultech.ac.kr
+>  B.S. in [Mechanical System Design Engineering], **SEOULTECH**
 
----
+## Projects
 
-### 💬 즐겨 사용하는 명언
-> "The only way to do great work is to love what you do." - Steve Jobs
+**2026** · **EREV Product Planning for Hyundai Porter**<br>
+**2025** · **3-DoF & 5-DoF Robotic Arms**<br>
+**2025** · **Rocker-Bogie Mobile Platform**<br>
+**2024** · **Vision-based Lane Following & Traffic Light Stop**<br>
+**2024** · **Image Dehazing Algorithm**
 
+## Skills
+
+**Vision** · OpenCV, YOLO<br>
+**Tool** · Inventor, Solidworks, AutoCAD, PowerMILL, MATLAB<br>
+**Languages** · Python, C++
+
+## Selected Awards
+
+**2026** · Top Excellence Award, Here We GO, Hyundai Motor Company<br>
+**2026** · Outstanding Trainee Award, Here We GO, Hyundai Motor Company<br>
+**2026** · University President's Award, withUS Club Program, SEOULTECH<br>
+**2025** · Excellence Award, Army Chief of Staff Cup Defense Robot Competition<br>
+**2025** · Popularity Award (Defense Robot Division), 25th Korea Intelligent Robot Contest<br>
+**2025** · Encouragement Award, Poster Session, Intelligent Robotics Expo, SEOULTECH
+
+## Selected Publications
+
+**J.-H. Lee**, Y.-G. Kang, H.-G. Seo, S.-W. Yoo, C.-B. Lee,<br>
+**"Design and Evaluation of a Gyroid-Structured TPU Non-Pneumatic Tire for Off-Road Mobility,"**<br>
+Korean Society of Automotive Engineers (KSAE) Fall Conference, pp. 441–442, 2025.
+
+## Contact
+
+**E-mail** · [seungwoo.yoo@slworld.com](mailto:seungwoo.yoo@slworld.com)<br>
