@@ -10,7 +10,7 @@ Robotics Lab/Intern @ **SL Corporation**
 
 ## Education
 
->  B.S. in [Mechanical System Design Engineering], **SEOULTECH**
+>  B.S. in Mechanical System Design Engineering, **SEOULTECH**
 
 ## Projects
 
