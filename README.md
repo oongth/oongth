@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Yoo Seungwoo]
+# Yoo Seungwoo
 
 **Robotics · Robot Design · Vision**
 
