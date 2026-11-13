@@ -22,7 +22,7 @@ Robotics Lab/Intern @ **SL Corporation**
 ## Skills
 
 **Vision** · OpenCV, YOLO<br>
-**Tool** · Inventor, Solidworks, AutoCAD, PowerMILL, MATLAB<br>
+**Tool** · Inventor, Solidworks, AutoCAD, PowerMILL, MATLAB, Ansys<br>
 **Languages** · Python, C++
 
 ## Selected Awards
