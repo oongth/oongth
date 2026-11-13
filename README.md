@@ -4,7 +4,7 @@
 
 **Robotics · Robot Design · Vision**
 
-[Robotics Lab/Intern] @ **[SL Corporation]**
+Robotics Lab/Intern @ **SL Corporation**
 
 </div>
 
