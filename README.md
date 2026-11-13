@@ -30,7 +30,7 @@ Robotics Lab/Intern @ **SL Corporation**
 **2026** · Top Excellence Award, Here We GO, Hyundai Motor Company<br>
 **2026** · Outstanding Trainee Award, Here We GO, Hyundai Motor Company<br>
 **2026** · University President's Award, withUS Club Program, SEOULTECH<br>
-**2025** · Excellence Award, Army Chief of Staff Cup Defense Robot Competition<br>
+**2025** · Excellence Award, ROK Army Chief of Staff's Defense Robot Competition<br>
 **2025** · Popularity Award (Defense Robot Division), 25th Korea Intelligent Robot Contest<br>
 **2025** · Encouragement Award, Poster Session, Intelligent Robotics Expo, SEOULTECH
 
