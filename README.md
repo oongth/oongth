@@ -36,7 +36,7 @@ Robotics Lab/Intern @ **SL Corporation**
 
 ## Selected Publications
 
-**J.-H. Lee**, Y.-G. Kang, H.-G. Seo, S.-W. Yoo, C.-B. Lee,<br>
+J.-H. Lee, Y.-G. Kang, H.-G. Seo, S.-W. Yoo, C.-B. Lee,<br>
 **"Design and Evaluation of a Gyroid-Structured TPU Non-Pneumatic Tire for Off-Road Mobility,"**<br>
 Korean Society of Automotive Engineers (KSAE) Fall Conference, pp. 441–442, 2025.
 
