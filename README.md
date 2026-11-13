@@ -25,7 +25,7 @@ Robotics Lab/Intern @ **SL Corporation**
 **Tool** · Inventor, Solidworks, AutoCAD, PowerMILL, MATLAB, Ansys<br>
 **Languages** · Python, C++
 
-## Selected Awards
+## Awards
 
 **2026** · Top Excellence Award, Here We GO, Hyundai Motor Company<br>
 **2026** · Outstanding Trainee Award, Here We GO, Hyundai Motor Company<br>
@@ -34,7 +34,7 @@ Robotics Lab/Intern @ **SL Corporation**
 **2025** · Popularity Award (Defense Robot Division), 25th Korea Intelligent Robot Contest<br>
 **2025** · Encouragement Award, Poster Session, Intelligent Robotics Expo, SEOULTECH
 
-## Selected Publications
+## Conference Presentations
 
 J.-H. Lee, Y.-G. Kang, H.-G. Seo, S.-W. Yoo, C.-B. Lee,<br>
 **"Design and Evaluation of a Gyroid-Structured TPU Non-Pneumatic Tire for Off-Road Mobility,"**<br>
