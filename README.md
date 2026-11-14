@@ -4,7 +4,7 @@
 
 **Robotics · Robot Design · Vision**
 
-Research Intern @ **Robotics Lab, Future Convergence Design Center, SL Corporation**
+Research Intern @ **Robotics Lab, SL Corporation**
 
 </div>
 
