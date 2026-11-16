@@ -14,8 +14,8 @@ Research Intern @ **Robotics Lab, SL Corporation**
 
 ## Projects
 
-**2025** · **3-DoF & 5-DoF Robotic Arms**<br>
-**2025** · **Rocker-Bogie Mobile Platform**<br>
+**2025** · **3-DoF & 5-DoF Robotic Arms Design**<br>
+**2025** · **Rocker-Bogie Mobile Platform Design**<br>
 **2024** · **Vision-based Lane Following & Traffic Light Stop**<br>
 **2024** · **Image Dehazing Algorithm**
 
